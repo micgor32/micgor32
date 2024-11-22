@@ -1,7 +1,3 @@
-<h2 id="header" align="center">Hi 👋, I'm Michal Gorlas</h2>
-<h3 id="intro" align="center">Student at Fontys Venlo. Currently working at <a href="https://fsfe.org"><img src="https://git.fsfe.org/FSFE/fsfe-website/raw/branch/master/graphics/logosmall.png" height="30" width="55" alt="FSFE"/></a><h3>
-<h3 id="intro2" align="center">Most of the code I write lives <a href="https://git.fsfe.org">here</a></h3>
-
 ## Skills & Tools
 
 ### Languages
